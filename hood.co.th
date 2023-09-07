@@ -272,4 +272,5 @@ SET    = setSelection(0,2);
 DELAY  = sleep (wait);
 RUN    = sendText (99);
 SET    = setSelection(0,2);
+DELAY  = sleep (wait);
 }
